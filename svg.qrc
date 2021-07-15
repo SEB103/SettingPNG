@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>svg/power-off-red.svg</file>
+        <file>svg/undo-solid.svg</file>
+    </qresource>
+</RCC>
